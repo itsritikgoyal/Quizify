@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quizify</string>
+    <string name="quizify">Quizify</string>
+    <string name="logoview">logoview</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="main_image">main_image</string>
+    <string name="category_1">Category 1</string>
+    <string name="sets">Sets</string>
+    <string name="_1">1</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="d">d</string>
+    <string name="question">question</string>
+    <string name="_1_10">1/10</string>
+</resources>
